@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<head>
+
+  <title> Font Family </title>
+  
+  
+  <style> 
+    body {  
+  background-color: grey ;  
+}
+          
+h1 {
+  color: pink ;
+}
+
+
+  <!-- font--> 
+p {
+  color:pink ;
+    font-family: "consolas", sans-serif ;
+    font-style: italic ;
+    font-weight: bold ;
+    font-size: 18px ;
+    font-decoration: underline ; 
+}
+    
+  </style> 
+  
+  
+  
+</head>
+
+<body>
+  
+  <h1> This is a heading </h1>
+  
+  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+  
+</body>
+
+
+</html>
