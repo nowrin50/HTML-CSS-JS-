@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+ <title> Basics of CSS </title>
+  
+  <style> 
+    body {
+    background-color:gray; 
+    }
+    </style>
+  
+</head>
+
+<body> 
+
+  <h1 style = "color: pink ;"> This is a heading </h1>
+  
+  <p style = " background-color:gray; color: pink;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> 
+  
+  <p style = " background-color:gray; color: pink;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> 
+  
+  <p style = " background-color:gray; color: pink;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  
+</body> 
+  
+</html>
