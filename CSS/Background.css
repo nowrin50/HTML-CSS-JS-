@@ -1,0 +1,51 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+ <title> Basics of CSS </title>
+  
+  <style> 
+    
+    body { 
+    background-image : url("image.jpeg");
+    background-repeat: no repeat ;
+    background-attachment: fixed ;
+    background-position : center ;
+    background-size : cover ; 
+    
+    }
+    
+    p{
+    color:pink ;
+    
+    background: linear-gradient( to right,white, lavender); 
+    background-repeat: no repeat ;
+    background-attachment: fixed ; 
+    }
+    
+    h1{
+    color: pink ;
+ 
+    background: linear-gradient( to right,white, lavender); 
+    background-repear: no repeat ;
+    background-attachment: fixed ; 
+   
+    
+    } 
+    
+    
+    </style>
+  
+</head>
+
+<body> 
+
+  <h1> This is a heading </h1>
+  
+  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> 
+  
+  
+</body> 
+  
+</html>
