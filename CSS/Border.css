@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+ <title> Basics of CSS </title>
+  
+  <style> 
+    
+    body {
+    background-color:gray; 
+    }
+    
+    p{
+    color:pink ;
+    
+    border-style:outset ;
+    border-width: 5px ;
+    border-color:lavender ;
+    border-radius: 10px;
+    padding: 10px;
+    }
+    
+    h1{
+    color: pink ;
+    
+    border-top-style: groove;
+    border-bottom-style: groove ;
+    border-left-style : groove ;
+    border-width : 10px ;
+    border-color : lavender ; 
+    
+    } 
+    
+    
+    </style>
+  
+</head>
+
+<body> 
+
+  <h1> This is a heading </h1>
+  
+  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> 
+  
+  
+</body> 
+  
+</html>
