@@ -1,0 +1,55 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+ <title> Basics of CSS </title>
+  
+  <style> 
+    
+   body {
+    margin : auto ;
+    }
+    
+    p{
+    color:pink ;  
+    }
+    
+    h1{
+    color: pink ;
+    } 
+    
+    #box1 {
+    border: 5px solid ;
+    border-color: gold ; 
+    width: 250px ; 
+    height: 250px;
+    font-size : 18px;
+    background: lavender ;
+    margin: auto;
+    }
+    
+    #box2 {
+    border: 5px solid ;
+    border-color: gold ; 
+    width: 250px ; 
+    height: 250px;
+    font-size : 18px;
+    background: lavender ;
+    margin: auto;
+    }
+    
+    </style>
+  
+</head>
+
+<body> 
+
+  
+  <div id = "box1"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
+  
+  <div id = "box2">  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+  
+</body> 
+  
+</html>
